@@ -1,0 +1,10 @@
+C:\Users\Z. Alouani\source\repos\Devoir2Azure\Devoir2Azure\bin\Debug\Devoir2Azure.exe.config
+C:\Users\Z. Alouani\source\repos\Devoir2Azure\Devoir2Azure\bin\Debug\Devoir2Azure.exe
+C:\Users\Z. Alouani\source\repos\Devoir2Azure\Devoir2Azure\bin\Debug\Devoir2Azure.pdb
+C:\Users\Z. Alouani\source\repos\Devoir2Azure\Devoir2Azure\obj\Debug\Devoir2Azure.csprojAssemblyReference.cache
+C:\Users\Z. Alouani\source\repos\Devoir2Azure\Devoir2Azure\obj\Debug\Devoir2Azure.Form1.resources
+C:\Users\Z. Alouani\source\repos\Devoir2Azure\Devoir2Azure\obj\Debug\Devoir2Azure.Properties.Resources.resources
+C:\Users\Z. Alouani\source\repos\Devoir2Azure\Devoir2Azure\obj\Debug\Devoir2Azure.csproj.GenerateResource.cache
+C:\Users\Z. Alouani\source\repos\Devoir2Azure\Devoir2Azure\obj\Debug\Devoir2Azure.exe
+C:\Users\Z. Alouani\source\repos\Devoir2Azure\Devoir2Azure\obj\Debug\Devoir2Azure.pdb
+C:\Users\Z. Alouani\source\repos\Devoir2Azure\Devoir2Azure\obj\Debug\Devoir2Azure.EditProduct1.resources
